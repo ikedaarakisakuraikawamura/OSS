@@ -10,3 +10,4 @@ abcdejg
 >>>>>>> origin/master
 ->dog
 >>>>>>> origin/master
+->do
