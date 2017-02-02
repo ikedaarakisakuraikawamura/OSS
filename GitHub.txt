@@ -51,3 +51,7 @@ Create repositoryをクリック
 
  Cloneをローカルに作る
 Githab
+
+
+⑤依然のテキストに戻る
+	履歴内の戻りたいところを選択してRevertをすると戻ることが可能（Ctrl+Zみたいなもの）
