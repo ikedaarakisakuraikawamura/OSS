@@ -3,5 +3,10 @@ abcdejg
 ->god
 
 ->good
+<<<<<<< HEAD
 
 ->araki‚Å‚·@;)
+=======
+>>>>>>> origin/master
+->dog
+>>>>>>> origin/master
