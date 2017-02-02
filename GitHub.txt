@@ -52,6 +52,14 @@ Create repositoryをクリック
  Cloneをローカルに作る
 Githab
 
+④ブランチ
+	・編集の本筋であるMasterに対して、branchと呼ばれる枝分かれした編集筋を作ることできる。
+	・Masterとbranchを同時に別々に編集することが可能になる。
+	・Masterとbranchを結合する方法
+		1.アプリケーションの右上にある「Pull request」をクリックする。
+		2.ブラウザのRepositoriesタブからリポジトリを選択する。
+		3.上部にあるタブから「Pull requests」を選択する。
+		4.
 
 ⑤以前のテキストに戻る
-	履歴内の戻りたいところを選択してRevertをすると戻ることが可能（Ctrl+Zみたいなもの）
+	履歴内の戻りたいところを選択してRevertをすると戻ることが可能（Ctrl+Zみたいなもの
