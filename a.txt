@@ -4,3 +4,4 @@ abcdejg
 =======
 ->good
 >>>>>>> origin/master
+->dog
