@@ -1,2 +1,6 @@
 abcdejg
+<<<<<<< HEAD
 ->god
+=======
+->good
+>>>>>>> origin/master
