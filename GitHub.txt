@@ -49,17 +49,25 @@
 Initialize this repository with a READMEにチェックを入れて
 Create repositoryをクリック
 
- Cloneをローカルに作る
+ Cloneをローカルに作る 
 Githab
 
 ④ブランチ
 	・編集の本筋であるMasterに対して、branchと呼ばれる枝分かれした編集筋を作ることできる。
 	・Masterとbranchを同時に別々に編集することが可能になる。
-	・Masterとbranchを結合する方法
-		1.アプリケーションの右上にある「Pull request」をクリックする。
-		2.ブラウザのRepositoriesタブからリポジトリを選択する。
-		3.上部にあるタブから「Pull requests」を選択する。
-		4.
-
-⑤以前のテキストに戻る
-	履歴内の戻りたいところを選択してRevertをすると戻ることが可能（Ctrl+Zみたいなもの
+	・Masterとbranchを結合(Merge)する方法
+		1.アプリケーションの右上にある「Publish」をクリックする。
+		2.同位置のアイコンが「Pull requests」に変わったので、クリックする。
+		3.テキストボックスにブランチの説明を追加する
+		4.「Send pull request」をクリックする。
+		5.ブラウザのRepositoriesタブからリポジトリを選択する。
+		6.上部にあるタブから「Pull requests」を選択する。
+		7.結合するリポジトリを選択する。
+		8.「Merge pull request」を選択する。
+		9.灰色になっていて、選択できない場合は、「Resolve conflicts」をクリックする。
+		10.コンフリクト部分を直し、「Mark as resolved」をクリックする。
+		11.「commit change」をクリックする。
+		12.8に戻る。
+		13.「Comfirm merge」をクリックする。
+		
+	 
