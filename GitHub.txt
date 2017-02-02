@@ -40,4 +40,10 @@ Github
 		6.
 　チーム内、リポジトリ単位
 ③リポジトリを作る
+
+自分のページからRepositories→new→Repository nameを入力
+Initialize this repository with a READMEにチェックを入れて
+Create repositoryをクリック
+
  Cloneをローカルに作る
+Githab
