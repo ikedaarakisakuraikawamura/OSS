@@ -1,4 +1,4 @@
-Github
+﻿Github
 ①アカウントをつくる(araki)
 
 	まずは、GitHubのトップページにアクセス。
@@ -30,15 +30,19 @@ Github
 		メールにて招待を「Joint」することで参加可能
  メンバーのアクセス権限
 	・オーナーに詳細なアクセス権限をつけることはできない
-	・メンバーに対してwrite,read,
+	・メンバーに対してリポジトリ単位で「Admin」「Write」「Read」「None」が選択できる。
+	・チーム内では役割「Owner」「Member」で選択
 	・変更方法
-		1.「People」タブに移動
-		2.各人の一番右にある歯車アイコンをクリック
-		3.「Manage」をクリック
-		4.「Manage access」をクリック
-		5.「Read」「Write」「Admin」の項目がある
-		6.
-　チーム内、リポジトリ単位
+		1.「People」タブに移動する。
+		2.各人の一番右にある歯車アイコンをクリックする。
+		3.「Manage」をクリックする。
+		4.登録されたリポジトリ一覧が表示される。
+		5.「Manage access」をクリックする。
+		6.「Read」「Write」「Admin」の項目がある。
+		7.現在の権限の項目に緑色の「Active」アイコンが表示されている。
+		8.「Active」アイコンの下にある「Edit」をクリックする。
+		9.「Default repository permission」の項目で「Admin」「Write」「Read」「None」から選択する。
+		10.「Save」をクリックし、保存して終了。
 ③リポジトリを作る
 
 自分のページからRepositories→new→Repository nameを入力
